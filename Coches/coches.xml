@@ -1,0 +1,1803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coches>
+    <coche serial="WP0AB2A8XCS695756">
+        <marca>Infiniti</marca>
+        <modelo>FX</modelo>
+        <año>2004</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1G6AK5SX8E0064254">
+        <marca>GMC</marca>
+        <modelo>Yukon</modelo>
+        <año>2003</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WAULT54B02N755861">
+        <marca>Ford</marca>
+        <modelo>Taurus</modelo>
+        <año>2004</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WAUMF78P66A317159">
+        <marca>Pontiac</marca>
+        <modelo>Grand Prix</modelo>
+        <año>2003</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="KMHHT6KD0AU418657">
+        <marca>BMW</marca>
+        <modelo>X6 M</modelo>
+        <año>2013</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1G6AJ5S33D0891464">
+        <marca>Dodge</marca>
+        <modelo>Ram 2500 Club</modelo>
+        <año>1999</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="SCFEBBCF1CG567956">
+        <marca>Jeep</marca>
+        <modelo>Wrangler</modelo>
+        <año>2006</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="JN1CV6APXCM599146">
+        <marca>BMW</marca>
+        <modelo>600</modelo>
+        <año>1959</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAUYGAFC9CN791364">
+        <marca>Pontiac</marca>
+        <modelo>Bonneville</modelo>
+        <año>1998</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="5J6TF1H53DL166240">
+        <marca>Ford</marca>
+        <modelo>Taurus</modelo>
+        <año>1996</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="3VW467AT7DM033403">
+        <marca>Mercedes-Benz</marca>
+        <modelo>600SEL</modelo>
+        <año>1992</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="SCBBP93W99C113484">
+        <marca>Ford</marca>
+        <modelo>E-Series</modelo>
+        <año>1988</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1G4CW54K054949015">
+        <marca>Ford</marca>
+        <modelo>Fiesta</modelo>
+        <año>2011</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="3FA6P0LU8ER822465">
+        <marca>Ford</marca>
+        <modelo>Econoline E350</modelo>
+        <año>1994</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="2HNYD186X2H208725">
+        <marca>Toyota</marca>
+        <modelo>Avalon</modelo>
+        <año>1997</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="3VWKX7AJ1DM915038">
+        <marca>Lexus</marca>
+        <modelo>GX</modelo>
+        <año>2010</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="SCFAB01A26G226015">
+        <marca>Ford</marca>
+        <modelo>E350</modelo>
+        <año>2010</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="YV140MEA4F1471298">
+        <marca>Dodge</marca>
+        <modelo>Dakota</modelo>
+        <año>1994</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WBANU5C52AC687039">
+        <marca>Buick</marca>
+        <modelo>Riviera</modelo>
+        <año>1991</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="JHMFA3F21BS369165">
+        <marca>Suzuki</marca>
+        <modelo>Aerio</modelo>
+        <año>2006</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUAFAFH6BN071003">
+        <marca>Geo</marca>
+        <modelo>Metro</modelo>
+        <año>1995</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1FBNE3BL4ED289756">
+        <marca>Ford</marca>
+        <modelo>F350</modelo>
+        <año>1993</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="4T1BF1FK4DU572365">
+        <marca>Dodge</marca>
+        <modelo>Stratus</modelo>
+        <año>2004</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="SCBFC7ZA3EC786424">
+        <marca>Hyundai</marca>
+        <modelo>Scoupe</modelo>
+        <año>1995</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="SCFAD05DX9G392589">
+        <marca>Lincoln</marca>
+        <modelo>Navigator L</modelo>
+        <año>2010</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="JHMFA3F2XBS089597">
+        <marca>Mercury</marca>
+        <modelo>Capri</modelo>
+        <año>1991</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="5FRYD4H22EB366778">
+        <marca>Infiniti</marca>
+        <modelo>EX</modelo>
+        <año>2012</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1C6RD7KP6CS581664">
+        <marca>Audi</marca>
+        <modelo>100</modelo>
+        <año>1991</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="19UUA65535A588405">
+        <marca>Infiniti</marca>
+        <modelo>QX</modelo>
+        <año>2007</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUBH78E56A888240">
+        <marca>Dodge</marca>
+        <modelo>Stratus</modelo>
+        <año>2003</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="JHMFB4F23CS938831">
+        <marca>Land Rover</marca>
+        <modelo>LR3</modelo>
+        <año>2009</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="4A31K5DF7CE161685">
+        <marca>Mercury</marca>
+        <modelo>Milan</modelo>
+        <año>2010</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WAUJGBFC8DN971153">
+        <marca>Kia</marca>
+        <modelo>Sportage</modelo>
+        <año>1996</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1G6DK1E37D0152578">
+        <marca>Chevrolet</marca>
+        <modelo>Silverado 1500</modelo>
+        <año>2011</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="JHMZF1C62FS907808">
+        <marca>Mercury</marca>
+        <modelo>Capri</modelo>
+        <año>1992</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1FTSW2A59AE045873">
+        <marca>Ford</marca>
+        <modelo>Bronco</modelo>
+        <año>1989</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="2G4GT5GV9C9909705">
+        <marca>Toyota</marca>
+        <modelo>Camry</modelo>
+        <año>1992</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="3VWA17AUXFM057739">
+        <marca>Ford</marca>
+        <modelo>Econoline E350</modelo>
+        <año>2001</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUBF98E47A594377">
+        <marca>Lincoln</marca>
+        <modelo>Continental Mark VII</modelo>
+        <año>1986</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="2T1BURHE9FC460628">
+        <marca>Mercedes-Benz</marca>
+        <modelo>W201</modelo>
+        <año>1993</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="2C3CCASG3FH745967">
+        <marca>BMW</marca>
+        <modelo>3 Series</modelo>
+        <año>2004</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="5TDBCRFH6FS612212">
+        <marca>Hyundai</marca>
+        <modelo>Elantra</modelo>
+        <año>2011</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WAUEL74F06N108874">
+        <marca>Volkswagen</marca>
+        <modelo>Tiguan</modelo>
+        <año>2010</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="JH4CW2H66CC245483">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <año>1998</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WBAAX13484P227743">
+        <marca>Dodge</marca>
+        <modelo>Caravan</modelo>
+        <año>2005</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="3C63D3HL8CG485173">
+        <marca>Ford</marca>
+        <modelo>F250</modelo>
+        <año>2001</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="5UXFE43588L788125">
+        <marca>Acura</marca>
+        <modelo>NSX</modelo>
+        <año>2004</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WAUNF98PX7A844803">
+        <marca>Audi</marca>
+        <modelo>90</modelo>
+        <año>1995</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="WBANU53539C996255">
+        <marca>Buick</marca>
+        <modelo>Skyhawk</modelo>
+        <año>1989</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1GYS4HEF9BR882917">
+        <marca>Pontiac</marca>
+        <modelo>GTO</modelo>
+        <año>1964</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="WAUDFAFL2DN742848">
+        <marca>Peugeot</marca>
+        <modelo>207</modelo>
+        <año>2007</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WBAWB73548P823079">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <año>1988</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="JHMZE2H78ES604802">
+        <marca>Honda</marca>
+        <modelo>Accord</modelo>
+        <año>1990</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WBAVB73537K205601">
+        <marca>Toyota</marca>
+        <modelo>Supra</modelo>
+        <año>1997</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WDDDJ7CB9AA305647">
+        <marca>Porsche</marca>
+        <modelo>Boxster</modelo>
+        <año>2012</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WBADS434X1G565458">
+        <marca>GMC</marca>
+        <modelo>Terrain</modelo>
+        <año>2010</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="SALSF2D48BA922523">
+        <marca>Honda</marca>
+        <modelo>Odyssey</modelo>
+        <año>2011</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAUKD98P19A006669">
+        <marca>BMW</marca>
+        <modelo>600</modelo>
+        <año>1959</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WBANW1C54AC806700">
+        <marca>Toyota</marca>
+        <modelo>Camry</modelo>
+        <año>2002</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="JTDKDTB39E1218977">
+        <marca>Volkswagen</marca>
+        <modelo>Touareg</modelo>
+        <año>2004</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WAUMFBFL0DN082458">
+        <marca>Pontiac</marca>
+        <modelo>Parisienne</modelo>
+        <año>1985</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="JN1BJ0HR9EM042114">
+        <marca>Chevrolet</marca>
+        <modelo>Astro</modelo>
+        <año>1994</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1GYFK26269R754841">
+        <marca>Volkswagen</marca>
+        <modelo>GLI</modelo>
+        <año>2009</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="5UXWX5C56CL860691">
+        <marca>Mazda</marca>
+        <modelo>RX-7</modelo>
+        <año>1985</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="3C3CFFJH3DT169526">
+        <marca>Ford</marca>
+        <modelo>Ranger</modelo>
+        <año>1997</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="SCFEBBCF0CG645935">
+        <marca>Dodge</marca>
+        <modelo>Dakota</modelo>
+        <año>1992</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WAUCFAFC6FN831370">
+        <marca>Mercedes-Benz</marca>
+        <modelo>S-Class</modelo>
+        <año>2002</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="JN8AE2KP3F9490423">
+        <marca>Chevrolet</marca>
+        <modelo>Tracker</modelo>
+        <año>1998</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WUARU98E87N847638">
+        <marca>Audi</marca>
+        <modelo>RS6</modelo>
+        <año>2003</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WAUPFAFM6BA894013">
+        <marca>Aston Martin</marca>
+        <modelo>V8 Vantage S</modelo>
+        <año>2012</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="2C4RDGBG7DR208077">
+        <marca>MINI</marca>
+        <modelo>Cooper</modelo>
+        <año>2002</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1N6AA0EC2FN198819">
+        <marca>Ford</marca>
+        <modelo>Escort</modelo>
+        <año>1992</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="JN1BJ0HR3DM415677">
+        <marca>Chevrolet</marca>
+        <modelo>Cavalier</modelo>
+        <año>1992</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="3VW467AT9DM861730">
+        <marca>Suzuki</marca>
+        <modelo>Forenza</modelo>
+        <año>2004</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="SALAB2D44CA133794">
+        <marca>Ford</marca>
+        <modelo>Probe</modelo>
+        <año>1991</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="2T1KE4EE6CC304756">
+        <marca>Ford</marca>
+        <modelo>F350</modelo>
+        <año>2011</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAU3GBFC0DN521943">
+        <marca>Mitsubishi</marca>
+        <modelo>Excel</modelo>
+        <año>1988</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WDBWK5EA0AF192262">
+        <marca>Chevrolet</marca>
+        <modelo>Express 1500</modelo>
+        <año>2004</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="1G6DF5EYXB0525116">
+        <marca>Pontiac</marca>
+        <modelo>Grand Am</modelo>
+        <año>2005</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1FTSX2B5XAE655132">
+        <marca>Volvo</marca>
+        <modelo>C70</modelo>
+        <año>2000</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WBAPH7C52BA399219">
+        <marca>Pontiac</marca>
+        <modelo>Firefly</modelo>
+        <año>1984</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1G4HE5EM8AU074933">
+        <marca>Mitsubishi</marca>
+        <modelo>Tredia</modelo>
+        <año>1986</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1FTSF3B55AE722020">
+        <marca>Toyota</marca>
+        <modelo>Celica</modelo>
+        <año>1978</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1D7RE3GK7AS043862">
+        <marca>Pontiac</marca>
+        <modelo>Trans Sport</modelo>
+        <año>1991</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WVGAV7AX7CW330547">
+        <marca>Toyota</marca>
+        <modelo>Avalon</modelo>
+        <año>1995</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="JTJBM7FX5A5038318">
+        <marca>Audi</marca>
+        <modelo>Allroad</modelo>
+        <año>2004</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="19UUA567X3A284835">
+        <marca>Toyota</marca>
+        <modelo>MR2</modelo>
+        <año>2000</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1G6YX36D675307599">
+        <marca>Lincoln</marca>
+        <modelo>Navigator</modelo>
+        <año>2002</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1FADP3E25EL528816">
+        <marca>Dodge</marca>
+        <modelo>Grand Caravan</modelo>
+        <año>1994</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1GKS1GKC0FR556159">
+        <marca>Lincoln</marca>
+        <modelo>Town Car</modelo>
+        <año>2004</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="5NPDH4AEXCH009176">
+        <marca>Toyota</marca>
+        <modelo>Tacoma</modelo>
+        <año>2006</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="3C4PDCGBXFT295843">
+        <marca>Ford</marca>
+        <modelo>Courier</modelo>
+        <año>1989</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WAUAF98E06A308602">
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>1990</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1N6AD0CU3BC468164">
+        <marca>Dodge</marca>
+        <modelo>Grand Caravan</modelo>
+        <año>2011</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1GTN1TEHXEZ750060">
+        <marca>Chevrolet</marca>
+        <modelo>Corvette</modelo>
+        <año>2007</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUXG74F19N156580">
+        <marca>Ford</marca>
+        <modelo>Econoline E150</modelo>
+        <año>1994</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="3N1AB6AP4BL650214">
+        <marca>Suzuki</marca>
+        <modelo>Verona</modelo>
+        <año>2005</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="JH4DC53874S256104">
+        <marca>Hummer</marca>
+        <modelo>H1</modelo>
+        <año>2004</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="WBSBL93436P236847">
+        <marca>BMW</marca>
+        <modelo>600</modelo>
+        <año>1959</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1FT7W2A68EE019107">
+        <marca>Mazda</marca>
+        <modelo>Tribute</modelo>
+        <año>2006</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="SAJWA4ECXEM188495">
+        <marca>Lexus</marca>
+        <modelo>LS</modelo>
+        <año>1998</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1G6DE5EYXB0841019">
+        <marca>Chevrolet</marca>
+        <modelo>Venture</modelo>
+        <año>2004</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="19UUA56652A479439">
+        <marca>Lexus</marca>
+        <modelo>ES</modelo>
+        <año>1989</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1GYS3HKJ6FR358545">
+        <marca>Jeep</marca>
+        <modelo>Wrangler</modelo>
+        <año>2007</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1N4AL2AP3AN689383">
+        <marca>Volkswagen</marca>
+        <modelo>GTI</modelo>
+        <año>2009</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="1N6AF0LY2EN670998">
+        <marca>Mitsubishi</marca>
+        <modelo>Chariot</modelo>
+        <año>1985</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="SCFFDAAE7BG371697">
+        <marca>Pontiac</marca>
+        <modelo>Bonneville</modelo>
+        <año>1999</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WBAWV53528P754632">
+        <marca>GMC</marca>
+        <modelo>Jimmy</modelo>
+        <año>1997</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="JTJBM7FX2E5901162">
+        <marca>Audi</marca>
+        <modelo>S5</modelo>
+        <año>2008</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1D7RB1CT6BS760072">
+        <marca>Ford</marca>
+        <modelo>E250</modelo>
+        <año>2008</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WBAKE3C54CE038354">
+        <marca>BMW</marca>
+        <modelo>600</modelo>
+        <año>1959</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="19XFA1E67BE754386">
+        <marca>GMC</marca>
+        <modelo>Vandura 2500</modelo>
+        <año>1992</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUPEAFM9BA311386">
+        <marca>Nissan</marca>
+        <modelo>Rogue</modelo>
+        <año>2009</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1G6AE5S31F0360819">
+        <marca>Chrysler</marca>
+        <modelo>Grand Voyager</modelo>
+        <año>2000</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WAUGL78E86A191357">
+        <marca>Honda</marca>
+        <modelo>Civic GX</modelo>
+        <año>2003</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WAU4FBFLXCA035248">
+        <marca>Chevrolet</marca>
+        <modelo>Corvette</modelo>
+        <año>2007</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WBAYF4C59FD303812">
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>1985</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1G6AA5RX6F0642569">
+        <marca>BMW</marca>
+        <modelo>X6</modelo>
+        <año>2008</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1G6DK5EV5A0533723">
+        <marca>Honda</marca>
+        <modelo>CR-V</modelo>
+        <año>2006</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="3C63D3CL5CG613523">
+        <marca>Honda</marca>
+        <modelo>Accord</modelo>
+        <año>2008</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WAUMF78K09N553288">
+        <marca>Audi</marca>
+        <modelo>V8</modelo>
+        <año>1992</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="1FTSW2A54AE325457">
+        <marca>Lincoln</marca>
+        <modelo>Continental Mark VII</modelo>
+        <año>1989</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="3GYFNCE39ES523253">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <año>2001</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="KMHEC4A42DA645122">
+        <marca>Mazda</marca>
+        <modelo>MPV</modelo>
+        <año>2003</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WAUGL78E77A190377">
+        <marca>BMW</marca>
+        <modelo>7 Series</modelo>
+        <año>2002</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WA1LGAFE9ED690648">
+        <marca>GMC</marca>
+        <modelo>Yukon</modelo>
+        <año>1997</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1G6YV36A375127783">
+        <marca>Hyundai</marca>
+        <modelo>Sonata</modelo>
+        <año>2006</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WBAUN1C56DV352523">
+        <marca>Mitsubishi</marca>
+        <modelo>Pajero</modelo>
+        <año>1990</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1GTPCTEXXAZ164611">
+        <marca>Dodge</marca>
+        <modelo>Ram Van 2500</modelo>
+        <año>2002</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAUDG78E65A610442">
+        <marca>Mitsubishi</marca>
+        <modelo>Mighty Max</modelo>
+        <año>1996</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="SCFFDCCD7CG266966">
+        <marca>Plymouth</marca>
+        <modelo>Prowler</modelo>
+        <año>1999</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="3VWAL7AJXAM250773">
+        <marca>Ram</marca>
+        <modelo>1500</modelo>
+        <año>2012</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1G6DC67A290669610">
+        <marca>Ford</marca>
+        <modelo>Econoline E150</modelo>
+        <año>1996</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="2C3CCAEG3DH030664">
+        <marca>Acura</marca>
+        <modelo>MDX</modelo>
+        <año>2011</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1G6DH8E54C0780895">
+        <marca>Mercedes-Benz</marca>
+        <modelo>300TE</modelo>
+        <año>1992</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WAUHFBFL7CN357498">
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>2005</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WBAVM5C58FV389607">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <año>1994</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1FTSX2B51AE259445">
+        <marca>Mazda</marca>
+        <modelo>RX-7</modelo>
+        <año>1988</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1G4GJ5E38CF847163">
+        <marca>Isuzu</marca>
+        <modelo>Ascender</modelo>
+        <año>2006</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUWFAFR9CA372985">
+        <marca>Dodge</marca>
+        <modelo>Dakota</modelo>
+        <año>2008</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1LNHL9DR8CG276120">
+        <marca>Buick</marca>
+        <modelo>LaCrosse</modelo>
+        <año>2006</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="2G4GN5EX1F9000439">
+        <marca>Chrysler</marca>
+        <modelo>Town &amp; Country</modelo>
+        <año>2004</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WBASN2C53CC081959">
+        <marca>Ford</marca>
+        <modelo>Escort</modelo>
+        <año>2002</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="5FNRL5H21FB122782">
+        <marca>Mercedes-Benz</marca>
+        <modelo>E-Class</modelo>
+        <año>2001</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1GTN2TEH6FZ221834">
+        <marca>Mercedes-Benz</marca>
+        <modelo>E-Class</modelo>
+        <año>2000</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="2T1KU4EE9DC848950">
+        <marca>Saturn</marca>
+        <modelo>S-Series</modelo>
+        <año>1993</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="4T1BK3DB7BU714957">
+        <marca>Hyundai</marca>
+        <modelo>Entourage</modelo>
+        <año>2008</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="JHMGE8G38DC979235">
+        <marca>Subaru</marca>
+        <modelo>Justy</modelo>
+        <año>1990</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1C3CDZCB0DN675444">
+        <marca>Ford</marca>
+        <modelo>GT</modelo>
+        <año>2005</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="2C3CDXL96FH667748">
+        <marca>Lotus</marca>
+        <modelo>Elan</modelo>
+        <año>1991</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WAUVKAFR3AA071410">
+        <marca>Nissan</marca>
+        <modelo>Titan</modelo>
+        <año>2005</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="5YMKW8C55F0141269">
+        <marca>Volkswagen</marca>
+        <modelo>Fox</modelo>
+        <año>1987</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="19XFB2F57DE227900">
+        <marca>Volkswagen</marca>
+        <modelo>Cabriolet</modelo>
+        <año>1988</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1FTMF1CW6AK488590">
+        <marca>Mercury</marca>
+        <modelo>Cougar</modelo>
+        <año>1996</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="YV1902MC2F1302992">
+        <marca>Dodge</marca>
+        <modelo>Ram</modelo>
+        <año>2008</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1FTNX2A53AE330935">
+        <marca>Volkswagen</marca>
+        <modelo>Phaeton</modelo>
+        <año>2004</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="19UUA76547A664236">
+        <marca>Mercedes-Benz</marca>
+        <modelo>S-Class</modelo>
+        <año>2007</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1G6DM57T470630555">
+        <marca>Saab</marca>
+        <modelo>9000</modelo>
+        <año>1989</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WDDHF0EB3FB563834">
+        <marca>Ford</marca>
+        <modelo>Contour</modelo>
+        <año>2000</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="SCBFT7ZA6FC974744">
+        <marca>Toyota</marca>
+        <modelo>Sequoia</modelo>
+        <año>2008</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="4T1BF3EK0AU038868">
+        <marca>Dodge</marca>
+        <modelo>Challenger</modelo>
+        <año>2012</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1G4GJ5G38DF552210">
+        <marca>Chrysler</marca>
+        <modelo>Town &amp; Country</modelo>
+        <año>1999</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WBA3N7C52FK548395">
+        <marca>Chevrolet</marca>
+        <modelo>Cavalier</modelo>
+        <año>2002</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WUARL48HX6K274418">
+        <marca>Buick</marca>
+        <modelo>Skylark</modelo>
+        <año>1989</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1G6DL67A780754621">
+        <marca>Mercedes-Benz</marca>
+        <modelo>SLR McLaren</modelo>
+        <año>2007</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="YV4852CZ2A1124080">
+        <marca>Chevrolet</marca>
+        <modelo>Corvette</modelo>
+        <año>1953</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1FT7W2A61EE303548">
+        <marca>Dodge</marca>
+        <modelo>Charger</modelo>
+        <año>2011</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1C3CDZBG8DN332569">
+        <marca>Chevrolet</marca>
+        <modelo>Cavalier</modelo>
+        <año>1995</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WVGAV7AX8AW673249">
+        <marca>BMW</marca>
+        <modelo>7 Series</modelo>
+        <año>2003</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="4A31K5DF5CE575807">
+        <marca>Pontiac</marca>
+        <modelo>GTO</modelo>
+        <año>2006</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WAUDT48H36K425507">
+        <marca>Lexus</marca>
+        <modelo>SC</modelo>
+        <año>2000</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAUSVAFA2AN913196">
+        <marca>Mercedes-Benz</marca>
+        <modelo>CL-Class</modelo>
+        <año>2003</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="1G6AR5SX4E0498375">
+        <marca>Land Rover</marca>
+        <modelo>Discovery</modelo>
+        <año>2006</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUEH78E78A566778">
+        <marca>Mitsubishi</marca>
+        <modelo>Mirage</modelo>
+        <año>1995</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="2C3CCARG6FH584102">
+        <marca>Ford</marca>
+        <modelo>Mustang</modelo>
+        <año>2000</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WVGEF9BP8FD369205">
+        <marca>Chevrolet</marca>
+        <modelo>Suburban</modelo>
+        <año>2010</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1GYUKGEF7AR953359">
+        <marca>Ford</marca>
+        <modelo>F-Series</modelo>
+        <año>1987</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WP0CA2A85AS895467">
+        <marca>Chevrolet</marca>
+        <modelo>Corvair 500</modelo>
+        <año>1963</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="3D4PG5FV4AT207752">
+        <marca>Cadillac</marca>
+        <modelo>SRX</modelo>
+        <año>2005</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WBAKG1C56CE001112">
+        <marca>Oldsmobile</marca>
+        <modelo>88</modelo>
+        <año>1996</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="4USBT53514L630158">
+        <marca>Ford</marca>
+        <modelo>Fairlane</modelo>
+        <año>1965</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="2G4WD582991002456">
+        <marca>Nissan</marca>
+        <modelo>Frontier</modelo>
+        <año>2006</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="3D73Y4HL2BG370737">
+        <marca>Subaru</marca>
+        <modelo>Forester</modelo>
+        <año>2007</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WAUNF78P28A096697">
+        <marca>Volvo</marca>
+        <modelo>S80</modelo>
+        <año>2011</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="2C3CDXCT2FH374568">
+        <marca>Pontiac</marca>
+        <modelo>Tempest</modelo>
+        <año>1961</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="3FAHP0DC9BR559798">
+        <marca>Ford</marca>
+        <modelo>Escort</modelo>
+        <año>1985</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WBAKF5C56CE643288">
+        <marca>MINI</marca>
+        <modelo>Cooper</modelo>
+        <año>2004</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WUARL48H54K307970">
+        <marca>GMC</marca>
+        <modelo>Yukon XL 1500</modelo>
+        <año>2000</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="5UXZV4C55BL099647">
+        <marca>Pontiac</marca>
+        <modelo>GTO</modelo>
+        <año>1966</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1G4GE5G39CF777237">
+        <marca>GMC</marca>
+        <modelo>Yukon</modelo>
+        <año>2011</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAUUL78E45A767365">
+        <marca>Lincoln</marca>
+        <modelo>Mark VIII</modelo>
+        <año>1998</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1G4HG5EM6AU697364">
+        <marca>Saab</marca>
+        <modelo>9000</modelo>
+        <año>1988</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WAUDH48H18K326835">
+        <marca>Mazda</marca>
+        <modelo>Familia</modelo>
+        <año>1985</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WAUAF78E25A915748">
+        <marca>Dodge</marca>
+        <modelo>Stratus</modelo>
+        <año>2003</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="JH4NA126X2T731898">
+        <marca>Jaguar</marca>
+        <modelo>XJ Series</modelo>
+        <año>2004</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="SCBBR9ZA7CC507031">
+        <marca>Mitsubishi</marca>
+        <modelo>Truck</modelo>
+        <año>1992</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="3GTU2YEJ9DG610685">
+        <marca>Hyundai</marca>
+        <modelo>Tiburon</modelo>
+        <año>2000</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="2HNYB1H60DH138595">
+        <marca>Toyota</marca>
+        <modelo>Solara</modelo>
+        <año>2002</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1G6DS5EV3A0434348">
+        <marca>Dodge</marca>
+        <modelo>Spirit</modelo>
+        <año>1993</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WA1CMAFE1AD395952">
+        <marca>Mercedes-Benz</marca>
+        <modelo>CL-Class</modelo>
+        <año>2009</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WBA3B9C54FF915746">
+        <marca>Toyota</marca>
+        <modelo>Truck Xtracab SR5</modelo>
+        <año>1989</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WAUSH78E98A810868">
+        <marca>Nissan</marca>
+        <modelo>Xterra</modelo>
+        <año>2011</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="5J8TB3H7XGL713461">
+        <marca>Suzuki</marca>
+        <modelo>Verona</modelo>
+        <año>2004</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1FTSW2A52AE552467">
+        <marca>Acura</marca>
+        <modelo>RL</modelo>
+        <año>2006</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="19UUA9F7XDA717126">
+        <marca>Toyota</marca>
+        <modelo>Matrix</modelo>
+        <año>2003</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="1GYFK46818R541228">
+        <marca>Ford</marca>
+        <modelo>LTD Crown Victoria</modelo>
+        <año>1989</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="2HNYD284X7H633759">
+        <marca>Dodge</marca>
+        <modelo>Dakota Club</modelo>
+        <año>1992</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="3VWF17AT3FM764159">
+        <marca>Mazda</marca>
+        <modelo>B-Series Plus</modelo>
+        <año>2000</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="3C6TD4CT2CG822711">
+        <marca>Dodge</marca>
+        <modelo>Avenger</modelo>
+        <año>2012</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WBAEH73495C538060">
+        <marca>GMC</marca>
+        <modelo>Sierra 1500</modelo>
+        <año>2004</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WUAW2BFC6FN059201">
+        <marca>Pontiac</marca>
+        <modelo>Vibe</modelo>
+        <año>2010</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="NM0KS9AN5AT082015">
+        <marca>Audi</marca>
+        <modelo>A5</modelo>
+        <año>2012</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WBABN33493P015647">
+        <marca>Subaru</marca>
+        <modelo>Impreza</modelo>
+        <año>2002</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="SALVE2BG3FH009808">
+        <marca>Hyundai</marca>
+        <modelo>XG350</modelo>
+        <año>2002</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="5N1AA0NC3BN587042">
+        <marca>Saab</marca>
+        <modelo>9000</modelo>
+        <año>1991</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="3LNDL2L35BR207802">
+        <marca>Ford</marca>
+        <modelo>F250</modelo>
+        <año>2009</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WBAPH7G58AN484034">
+        <marca>GMC</marca>
+        <modelo>Sierra 2500</modelo>
+        <año>2009</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="JTHBE1BL0FA926133">
+        <marca>Toyota</marca>
+        <modelo>Camry Hybrid</modelo>
+        <año>2009</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WDDHF5KBXEA261897">
+        <marca>Porsche</marca>
+        <modelo>928</modelo>
+        <año>1990</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="SCFAB423X3K575715">
+        <marca>Nissan</marca>
+        <modelo>NX</modelo>
+        <año>1992</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="WVWAA7AJ9CW037308">
+        <marca>Nissan</marca>
+        <modelo>350Z</modelo>
+        <año>2008</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAURFAFR6EA159878">
+        <marca>Ram</marca>
+        <modelo>2500</modelo>
+        <año>2011</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="JTDKTUD31ED242422">
+        <marca>Dodge</marca>
+        <modelo>D150 Club</modelo>
+        <año>1993</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1FA6P0H70F5818014">
+        <marca>Volkswagen</marca>
+        <modelo>Passat</modelo>
+        <año>1992</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="WBAVB135X6P817101">
+        <marca>Jeep</marca>
+        <modelo>Cherokee</modelo>
+        <año>2000</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1N6AA0CC1BN652751">
+        <marca>Maserati</marca>
+        <modelo>Karif</modelo>
+        <año>1989</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="19UUA76528A796073">
+        <marca>Austin</marca>
+        <modelo>Mini</modelo>
+        <año>1959</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="3N1AB6APXAL529105">
+        <marca>Dodge</marca>
+        <modelo>Neon</modelo>
+        <año>1999</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="SCFAB42312K520214">
+        <marca>Buick</marca>
+        <modelo>Regal</modelo>
+        <año>1994</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="5NPDH4AE9EH630752">
+        <marca>GMC</marca>
+        <modelo>Vandura 2500</modelo>
+        <año>1994</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="1G6DK5EY0B0616231">
+        <marca>Oldsmobile</marca>
+        <modelo>Bravada</modelo>
+        <año>2001</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1FMJK1H52BE485874">
+        <marca>Acura</marca>
+        <modelo>Legend</modelo>
+        <año>1995</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="2HNYD18285H239831">
+        <marca>Toyota</marca>
+        <modelo>T100</modelo>
+        <año>1993</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="5UXFG2C59BL563847">
+        <marca>Chevrolet</marca>
+        <modelo>Corvette</modelo>
+        <año>2011</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="SAJWA0HP9EM263369">
+        <marca>Nissan</marca>
+        <modelo>Sentra</modelo>
+        <año>2010</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WA1DGAFE7FD079636">
+        <marca>Jeep</marca>
+        <modelo>Liberty</modelo>
+        <año>2003</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="JH4CU256X9C873047">
+        <marca>Mazda</marca>
+        <modelo>MX-5</modelo>
+        <año>1999</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WAUEH78E16A122406">
+        <marca>Mazda</marca>
+        <modelo>MX-6</modelo>
+        <año>1995</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="3LN6L2LU0ER920645">
+        <marca>Pontiac</marca>
+        <modelo>Vibe</modelo>
+        <año>2009</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="3FA6P0LU1FR511638">
+        <marca>Land Rover</marca>
+        <modelo>Range Rover</modelo>
+        <año>2003</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WAUVC58E62A890105">
+        <marca>Cadillac</marca>
+        <modelo>DeVille</modelo>
+        <año>1997</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1GYS4HEF3ER256039">
+        <marca>Chevrolet</marca>
+        <modelo>Tahoe</modelo>
+        <año>1997</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="JTHBW1GG0E1538763">
+        <marca>Toyota</marca>
+        <modelo>Camry</modelo>
+        <año>1998</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="JN1CV6EK0DM427711">
+        <marca>GMC</marca>
+        <modelo>Savana 2500</modelo>
+        <año>2000</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="JH4CL96937C447105">
+        <marca>Mercedes-Benz</marca>
+        <modelo>SL-Class</modelo>
+        <año>2002</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="3C3CFFER5DT401286">
+        <marca>Mercedes-Benz</marca>
+        <modelo>G-Class</modelo>
+        <año>2009</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="2C3CDXDT2CH956342">
+        <marca>Maserati</marca>
+        <modelo>Gran Sport</modelo>
+        <año>2005</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="JN8AZ1MU2EW305070">
+        <marca>Ford</marca>
+        <modelo>F450</modelo>
+        <año>2010</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="JTHFE2C25D2106893">
+        <marca>Chevrolet</marca>
+        <modelo>Suburban 2500</modelo>
+        <año>1994</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="2G4G05GV9B9536544">
+        <marca>Toyota</marca>
+        <modelo>RAV4</modelo>
+        <año>2009</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="JM1CR2W34A0583691">
+        <marca>Kia</marca>
+        <modelo>Sephia</modelo>
+        <año>1999</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WDDGF4HB5CR379562">
+        <marca>GMC</marca>
+        <modelo>Vandura 3500</modelo>
+        <año>1994</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="WBAYA8C55FG416015">
+        <marca>Infiniti</marca>
+        <modelo>QX</modelo>
+        <año>2001</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WAUKFBFL7CN257259">
+        <marca>Mercedes-Benz</marca>
+        <modelo>E-Class</modelo>
+        <año>1992</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="1G6DH5EY0B0917564">
+        <marca>Plymouth</marca>
+        <modelo>Neon</modelo>
+        <año>2000</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="5UXZV8C52D0963372">
+        <marca>Land Rover</marca>
+        <modelo>Range Rover</modelo>
+        <año>1995</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WA1DGAFP6EA572175">
+        <marca>Buick</marca>
+        <modelo>Enclave</modelo>
+        <año>2009</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="JN8AZ2KR2AT143313">
+        <marca>Mazda</marca>
+        <modelo>MX-5</modelo>
+        <año>1994</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="3C6JD6CT4CG014878">
+        <marca>Dodge</marca>
+        <modelo>Ram Wagon B150</modelo>
+        <año>1992</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1FTEX1CM3BF793040">
+        <marca>GMC</marca>
+        <modelo>Savana 2500</modelo>
+        <año>2009</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="1N4AB7AP9DN752801">
+        <marca>Pontiac</marca>
+        <modelo>Bonneville</modelo>
+        <año>1997</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="5LMJJ3J5XCE297680">
+        <marca>Volvo</marca>
+        <modelo>S40</modelo>
+        <año>2002</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="WAUEH78E28A495389">
+        <marca>GMC</marca>
+        <modelo>Envoy</modelo>
+        <año>1998</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WAUAF98E57A193366">
+        <marca>Ford</marca>
+        <modelo>Thunderbird</modelo>
+        <año>1972</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="5N1AN0NUXAC950959">
+        <marca>Porsche</marca>
+        <modelo>928</modelo>
+        <año>1994</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="5J6TF1H55EL468646">
+        <marca>Volkswagen</marca>
+        <modelo>rio</modelo>
+        <año>2002</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1GYEK63N22R348482">
+        <marca>Volkswagen</marca>
+        <modelo>Scirocco</modelo>
+        <año>1988</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="WA1WKAFP2AA286695">
+        <marca>Subaru</marca>
+        <modelo>Outback</modelo>
+        <año>2005</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="1LNHL9DK3DG914553">
+        <marca>Mercury</marca>
+        <modelo>Villager</modelo>
+        <año>1995</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="5J6TF1H32BL049101">
+        <marca>Lexus</marca>
+        <modelo>GS</modelo>
+        <año>1995</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="WAUAF98E65A821612">
+        <marca>Dodge</marca>
+        <modelo>Grand Caravan</modelo>
+        <año>2000</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="5BZAF0AA7FN938020">
+        <marca>BMW</marca>
+        <modelo>3 Series</modelo>
+        <año>2009</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WBA3C1C53CA210671">
+        <marca>BMW</marca>
+        <modelo>Z3</modelo>
+        <año>1996</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="5GAKRCED8CJ520491">
+        <marca>Chevrolet</marca>
+        <modelo>Corsica</modelo>
+        <año>1994</año>
+        <color>Amarillo</color>
+    </coche>
+    <coche serial="1G6KP5E96AU052965">
+        <marca>Ford</marca>
+        <modelo>Thunderbird</modelo>
+        <año>1990</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="WAUKF98E76A788075">
+        <marca>Lexus</marca>
+        <modelo>ES</modelo>
+        <año>2004</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="JN1AZ4FH8FM394429">
+        <marca>Lincoln</marca>
+        <modelo>Navigator</modelo>
+        <año>2006</año>
+        <color>Plata</color>
+    </coche>
+    <coche serial="3GYFNEE31CS594472">
+        <marca>Mitsubishi</marca>
+        <modelo>Pajero</modelo>
+        <año>1986</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="WAUSF98E68A913215">
+        <marca>Maserati</marca>
+        <modelo>Biturbo</modelo>
+        <año>1986</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1FTEW1CM3CK212566">
+        <marca>Ford</marca>
+        <modelo>Club Wagon</modelo>
+        <año>1996</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="19XFA1E5XAE585731">
+        <marca>Hyundai</marca>
+        <modelo>Sonata</modelo>
+        <año>2009</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WBABS33412P127673">
+        <marca>Audi</marca>
+        <modelo>RS4</modelo>
+        <año>2007</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="KMHHT6KD2BU236590">
+        <marca>Maserati</marca>
+        <modelo>Quattroporte</modelo>
+        <año>2005</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="1G6YX36DX85556070">
+        <marca>Smart</marca>
+        <modelo>Fortwo</modelo>
+        <año>2009</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="1N4AL2AP8CC547092">
+        <marca>Kia</marca>
+        <modelo>Spectra</modelo>
+        <año>2002</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="JTDJTUD32ED484809">
+        <marca>Dodge</marca>
+        <modelo>Durango</modelo>
+        <año>1999</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="19VDE1F30DE195596">
+        <marca>Ford</marca>
+        <modelo>Bronco</modelo>
+        <año>1991</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="3VW507AT8FM653993">
+        <marca>Cadillac</marca>
+        <modelo>Escalade EXT</modelo>
+        <año>2006</año>
+        <color>Blanco</color>
+    </coche>
+    <coche serial="5FRYD3H27FB803881">
+        <marca>Buick</marca>
+        <modelo>Regal</modelo>
+        <año>1985</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="WBADX1C53BE637199">
+        <marca>Honda</marca>
+        <modelo>Element</modelo>
+        <año>2006</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="1C4NJCBA0FD972239">
+        <marca>Chevrolet</marca>
+        <modelo>Express 1500</modelo>
+        <año>2008</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="5FNRL5H28FB049412">
+        <marca>Rolls-Royce</marca>
+        <modelo>Phantom</modelo>
+        <año>2011</año>
+        <color>Azul</color>
+    </coche>
+    <coche serial="4T1BF1FK7DU754724">
+        <marca>Dodge</marca>
+        <modelo>Dakota</modelo>
+        <año>1993</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="WA1YL64B04N652256">
+        <marca>Rolls-Royce</marca>
+        <modelo>Ghost</modelo>
+        <año>2010</año>
+        <color>Gris</color>
+    </coche>
+    <coche serial="SCFAB22322K314212">
+        <marca>Lexus</marca>
+        <modelo>SC</modelo>
+        <año>2008</año>
+        <color>Negro</color>
+    </coche>
+    <coche serial="3C4PDCBB1DT565417">
+        <marca>Daewoo</marca>
+        <modelo>Nubira</modelo>
+        <año>2000</año>
+        <color>Rojo</color>
+    </coche>
+    <coche serial="1FMJU1G55AE998336">
+        <marca>Dodge</marca>
+        <modelo>Avenger</modelo>
+        <año>1996</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="JN1CV6FE1AM320221">
+        <marca>Chevrolet</marca>
+        <modelo>Tahoe</modelo>
+        <año>2007</año>
+        <color>Marrón</color>
+    </coche>
+    <coche serial="SCFAD22383K541237">
+        <marca>Chevrolet</marca>
+        <modelo>Suburban 1500</modelo>
+        <año>2010</año>
+        <color>Verde</color>
+    </coche>
+    <coche serial="WAUHF78P06A793456">
+        <marca>Mazda</marca>
+        <modelo>626</modelo>
+        <año>1998</año>
+        <color>Gris</color>
+    </coche>
+</coches>
